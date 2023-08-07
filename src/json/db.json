@@ -1,26 +1,28 @@
-[
-  {
-    "id": 1,
-    "titulo": "O labirinto da Inteligência Artificial",
-    "capa": "imagens/ia.png",
-    "link": "https://www.youtube.com/embed/RQJ1i3ArTEw"
-  },
-  {
-    "id": 2,
-    "titulo": "Um componente no espaço",
-    "capa": "imagens/react.png",
-    "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ"
-  },
-  {
-    "id": 3,
-    "titulo": "O poderoso JavaScript",
-    "capa": "imagens/js.png",
-    "link": "https://www.youtube.com/embed/QnLSBuykGxI"
-  },
-  {
-    "id": 4,
-    "titulo": "Inimigo invisível",
-    "capa": "imagens/cyber-security.png",
-    "link": "https://www.youtube.com/embed/s7ldn31OEFc"
-  }
-]
+{
+  "videos": [
+    {
+      "id": 1,
+      "titulo": "O labirinto da Inteligência Artificial",
+      "capa": "imagens/ia.png",
+      "link": "https://www.youtube.com/embed/RQJ1i3ArTEw"
+    },
+    {
+      "id": 2,
+      "titulo": "Um componente no espaço",
+      "capa": "imagens/react.png",
+      "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ"
+    },
+    {
+      "id": 3,
+      "titulo": "O poderoso JavaScript",
+      "capa": "imagens/js.png",
+      "link": "https://www.youtube.com/embed/QnLSBuykGxI"
+    },
+    {
+      "id": 4,
+      "titulo": "Inimigo invisível",
+      "capa": "imagens/cyber-security.png",
+      "link": "https://www.youtube.com/embed/s7ldn31OEFc"
+    }
+  ]
+}
