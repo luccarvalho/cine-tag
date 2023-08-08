@@ -1,7 +1,7 @@
 <h1 align="center">Cine Tag</h1>
 
 <div align="center">
-  <img width="600" src="" alt="Gif de apresentação do projeto">
+  <img width="600" src="public/imagens/cine-tag_to_readme.gif" alt="Gif de apresentação do projeto">
 </div>
 
 ## Descrição e objetivo do projeto
