@@ -24,4 +24,4 @@ O intuito no desenvolvimento do projeto, foi de aprofundar o conhecimento em Hoo
 
 ## :link: Acesso ao projeto
 
-Você pode acessar o deploy do projeto na Vercel clicando [aqui]().
+Você pode acessar o deploy do projeto na Vercel clicando [aqui](https://cine-tag-gamma.vercel.app/).
